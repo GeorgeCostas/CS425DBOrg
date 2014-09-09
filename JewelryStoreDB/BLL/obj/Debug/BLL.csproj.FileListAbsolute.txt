@@ -1,0 +1,7 @@
+D:\Project\CS425\Jewelry\BLL\bin\Debug\BLL.dll
+D:\Project\CS425\Jewelry\BLL\bin\Debug\BLL.pdb
+D:\Project\CS425\Jewelry\BLL\bin\Debug\DAL.dll
+D:\Project\CS425\Jewelry\BLL\bin\Debug\DAL.pdb
+D:\Project\CS425\Jewelry\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Project\CS425\Jewelry\BLL\obj\Debug\BLL.dll
+D:\Project\CS425\Jewelry\BLL\obj\Debug\BLL.pdb

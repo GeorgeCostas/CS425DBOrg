@@ -1,0 +1,4 @@
+D:\Project\CS425\Jewelry\DAL\bin\Debug\DAL.dll
+D:\Project\CS425\Jewelry\DAL\bin\Debug\DAL.pdb
+D:\Project\CS425\Jewelry\DAL\obj\Debug\DAL.dll
+D:\Project\CS425\Jewelry\DAL\obj\Debug\DAL.pdb
